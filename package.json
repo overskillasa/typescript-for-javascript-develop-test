@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/overskillasa/typescript-for-javascript-develop-test/issues"
   },
-  "homepage": "https://github.com/overskillasa/typescript-for-javascript-develop-test#readme"
+  "homepage": "https://github.com/overskillasa/typescript-for-javascript-develop-test#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
