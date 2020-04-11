@@ -1,0 +1,20 @@
+{
+  "name": "typescript-for-javascript-develop-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overskillasa/typescript-for-javascript-develop-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/overskillasa/typescript-for-javascript-develop-test/issues"
+  },
+  "homepage": "https://github.com/overskillasa/typescript-for-javascript-develop-test#readme"
+}
